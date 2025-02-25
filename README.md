@@ -170,14 +170,14 @@
 
                       
                     Feature	                               Public Repository	                                            Private Repository
-                    Visibility	                           Accessible to anyone on GitHub.	                              Only visible to invited collaborators.
-                    Collaboration	                         Open for contributions from the community.	                    Only authorized users can contribute.
-                    Security & Privacy	                   Public code can be viewed by anyone.	                          Code is restricted and hidden from public view.
-                    GitHub Pages                           Can be used to host public documentation or websites.          Can also host GitHub Pages but with restricted access.
-                    Cost                                   Free for unlimited public repositories.	                      Free for personal use, but team collaboration may require a paid plan.
-                    Forking	                               Anyone can fork and create pull requests.	                    Only authorized users can fork within the same organization.
-                    SEO & Discoverability	                 Indexed by search engines, increasing visibility.	            Not indexed; limited exposure.
-                    Compliance & Legal	                   Open-source licenses apply if shared publicly.	                License terms are controlled by the repository owner.
+                    Visibility	                               Accessible to anyone on GitHub.	                                   Only visible to invited collaborators.
+                    Collaboration	                               Open for contributions from the community.	                 Only authorized users can contribute.
+                    Security & Privacy	                      Public code can be viewed by anyone.	                          Code is restricted and hidden from public view.
+                    GitHub Pages                                   Can be used to host public documentation or websites.              Can also host GitHub Pages but with restricted access.
+                    Cost                                           Free for unlimited public repositories.	                          Free for personal use, but team collaboration may require a paid plan.
+                    Forking	                               Anyone can fork and create pull requests.	                 Only authorized users can fork within the same organization.
+                    SEO & Discoverability	                      Indexed by search engines, increasing visibility.	                 Not indexed; limited exposure.
+                    Compliance & Legal	                      Open-source licenses apply if shared publicly.	                 License terms are controlled by the repository owner.
 
 
                     Public Repositories
@@ -462,12 +462,12 @@
     
 
 
-              Feature                         	Forking                                                                	Cloning
-              Purpose	                          Creates a copy of a repository on your GitHub account.	                Creates a local copy of a repository on your computer.
-              Where It Exists	                  GitHub (remote repository).	                                            Your local system (computer).
-              Affects Original Repo?	          No, changes stay in your fork unless you create a pull request.	        No, but changes must be pushed back manually.
-              Contributing Back?	              You submit a pull request to propose changes.	                          Typically used when you already have write access to the repository.
-              Best Used For	                    Contributing to open-source projects, independent experimentation.    	Local development, working on a project you already own.
+              Feature                         	Forking                                                                	       Cloning
+              Purpose	                           Creates a copy of a repository on your GitHub account.	                Creates a local copy of a repository on your computer.
+              Where It Exists	                  GitHub (remote repository).	                                           Your local system (computer).
+              Affects Original Repo?	         No, changes stay in your fork unless you create a pull request.	       No, but changes must be pushed back manually.
+              Contributing Back?	                  You submit a pull request to propose changes.	                         Typically used when you already have write access to the repository.
+              Best Used For	                  Contributing to open-source projects, independent experimentation.    	       Local development, working on a project you already own.
 
 
               When to Use Forking?
@@ -481,11 +481,11 @@
 How Issues and Project Boards Improve Collaboration
              
                   Feature                                              	Issues	                                                                         Project Boards
-                  Bug Tracking	                                        Reports and tracks bugs with details and discussions.	                           Groups bug-related issues into a dedicated workflow.
-                  Task Management	                                      Assigns tasks to individuals and tracks their progress.	                         Provides a visual overview of team workload and task flow.
-                  Feature Development	                                  Creates issues for new features and enhancements.	                               Helps teams prioritize and track development phases.
-                  Team Collaboration	                                  Enables discussions and feedback in a structured way.	                           Keeps everyone aligned by visually tracking project progress.
-                  Automation & Integration	                            Links to pull requests and auto-closes issues on merge.                          Automates movement of tasks based on status updates.
+                  Bug Tracking	                                    Reports and tracks bugs with details and discussions.	                            Groups bug-related issues into a dedicated workflow.
+                  Task Management	                                    Assigns tasks to individuals and tracks their progress.	                   Provides a visual overview of team workload and task flow.
+                  Feature Development	                           Creates issues for new features and enhancements.	                            Helps teams prioritize and track development phases.
+                  Team Collaboration	                           Enables discussions and feedback in a structured way.	                            Keeps everyone aligned by visually tracking project progress.
+                  Automation & Integration	                           Links to pull requests and auto-closes issues on merge.                           Automates movement of tasks based on status updates.
 
 
               GitHub Issues
